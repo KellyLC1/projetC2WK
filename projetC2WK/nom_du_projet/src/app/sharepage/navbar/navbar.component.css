@@ -1,0 +1,22 @@
+.active-link{
+    font-weight: bold;
+    color: var(--cinquieme-color);
+}
+nav{
+    color: var(--secondary-color);
+}
+.navbar-brand{
+    color: var(--cinquieme-color);
+}
+.navicons{
+    padding: 6px;
+    color: black;
+    font-size: 20px;
+}
+a:hover{
+    color: var(--cinquieme-color);
+}
+select{
+    border: none;
+    background-color: transparent;
+}

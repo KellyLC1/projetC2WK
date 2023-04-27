@@ -1,0 +1,23 @@
+.footer{
+    overflow: hidden;
+    background-color: var(--cinquieme-color);
+    padding: 20px 10px;
+    position: sticky;
+    top: 100%;
+
+}
+a{
+    padding: 0px 10px;
+    color: black;
+    font-size: 20px;
+    text-decoration: none;
+}
+i{
+    font-size: xx-large;
+}
+h1{
+    color: var(--primary-color)
+}
+a:hover{
+    color: var(--troisieme-color);
+}
